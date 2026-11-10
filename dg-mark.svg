@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">DG — Danilo Guerreiro Coach</title>
+  <rect width="128" height="128" rx="22" fill="#101114"/>
+  <path d="M23 28h82v8H31v56h29v8H23z" fill="#ef233c"/>
+  <path d="M46 47h33c16 0 26 10 26 26s-10 26-26 26H46V47zm15 13v26h17c8 0 12-5 12-13s-4-13-12-13H61z" fill="#f4f4f2"/>
+  <path d="M101 92l9 12" stroke="#ef233c" stroke-width="6" stroke-linecap="square"/>
+</svg>
