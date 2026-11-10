@@ -19,4 +19,4 @@
 ## Contato e publicação
 
 - [x] Encerrar a página com chamada de contato e link direto para o perfil de Danilo no Instagram: https://www.instagram.com/dguerreirocoach/.
-- [ ] Publicar o código completo em um repositório público do GitHub autorizado pelo usuário e entregar o link verificável do repositório.
+- [x] Publicar o código completo em um repositório público do GitHub autorizado pelo usuário e entregar o link verificável do repositório.
